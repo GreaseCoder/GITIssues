@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Angular Github Issues";
+}
+
+<div class="page-header">
+    Angular Github Issues from past seven days  <small>(As of @ViewData["RequestTime"])</small>
+</div>
+
+<div class="body-content">
+    @foreach (GitIssue issue in (List<GitIssue>)ViewData["Issues"])
+    {
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <b>@issue.Title</b>
+            </div>
+
+            <div class="panel-body">
+                @issue.Body
+            </div>
+
+            <div class="panel-footer">
+                <div class="row">
+                    <div class="text-left col-xs-6">
+                        Assigned to:
+                        @issue.Assignee
+                    </div>
+                    <div class="text-right col-xs-6">
+                        Submitted by:
+                        @issue.Submitter
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,11 @@
+c:\users\wes\source\repos\GITIssues\GITIssues\bin\Debug\netcoreapp1.1\GITIssues.deps.json
+c:\users\wes\source\repos\GITIssues\GITIssues\bin\Debug\netcoreapp1.1\GITIssues.runtimeconfig.json
+c:\users\wes\source\repos\GITIssues\GITIssues\bin\Debug\netcoreapp1.1\GITIssues.runtimeconfig.dev.json
+c:\users\wes\source\repos\GITIssues\GITIssues\bin\Debug\netcoreapp1.1\GITIssues.dll
+c:\users\wes\source\repos\GITIssues\GITIssues\bin\Debug\netcoreapp1.1\GITIssues.pdb
+c:\users\wes\source\repos\GITIssues\GITIssues\obj\Debug\netcoreapp1.1\GITIssues.csprojResolveAssemblyReference.cache
+c:\users\wes\source\repos\GITIssues\GITIssues\obj\Debug\netcoreapp1.1\GITIssues.csproj.CoreCompileInputs.cache
+c:\users\wes\source\repos\GITIssues\GITIssues\obj\Debug\netcoreapp1.1\GITIssues.AssemblyInfoInputs.cache
+c:\users\wes\source\repos\GITIssues\GITIssues\obj\Debug\netcoreapp1.1\GITIssues.AssemblyInfo.cs
+c:\users\wes\source\repos\GITIssues\GITIssues\obj\Debug\netcoreapp1.1\GITIssues.dll
+c:\users\wes\source\repos\GITIssues\GITIssues\obj\Debug\netcoreapp1.1\GITIssues.pdb
